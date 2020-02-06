@@ -1,0 +1,8 @@
+﻿Reg. No.,Name,Question,Option1,Option2,Option3,Option4
+RA1711003011154,Akshit,What is cat?,false,true,false,false
+RA1711003011155,Nandish,What is cat?,true,false,false,false
+RA1711003011156,Dhairya,Who is Albert?,false,false,true,false
+RA1711003011157,Siddhesh,Where is Tokyo?,false,true,false,false
+RA1711003011158,Maharishi,Who won the race?,false,false,false,true
+RA1711003011154,Akshit,Where is Tokyo?,true,false,false,false
+RA1711003011157,Siddhesh,Who invented bulb?,false,false,true,false
